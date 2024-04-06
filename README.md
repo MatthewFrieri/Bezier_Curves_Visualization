@@ -3,8 +3,7 @@ A real-time interactive visualization of how bézier curves are modelled. This p
 
 Creating this visualization was very significant to me because I was able to apply concepts I learned in CS classes to bring a vision to life. After being inspired by Freya Holmér's video, I wanted to implement my own version of bézier curves. By applying my newfound knowledge and doing additional research, I was able to create a visually pleasing project that I am happy with.  
 
-
-![plot](./Sprites/Thumbnail.png)
+![plot](./Sprites/Thumbnail.gif)
 
 # Controls
 - **Space Bar:** play / pause the visualization
